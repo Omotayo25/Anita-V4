@@ -36,7 +36,7 @@
     },
     "AUTO_VIEW_STATUS": {
       "description": "Auto-view saved WhatsApp statuses.",
-      "value": "true",
+      "value": "false",
       "required": false
     },
     "CHATBOT": {
@@ -59,7 +59,7 @@
     },
     "AUTHOR": {
       "description": "Put Sticker Pack Author_Name.",
-      "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
+      "value": "plutomoney",
       "required": false
     }
   },
